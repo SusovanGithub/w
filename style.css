@@ -201,7 +201,7 @@ a {
   height: 100%;
   width: 100%;
   background-color: black;
-  opacity: 0.4;
+  opacity: 0.6;
   z-index: -1;
 }
 #contact .footer {
@@ -216,7 +216,4 @@ a {
   padding-top: 40px;
   font-size: 4rem;
   text-align: center;
-}
-#contact a {
-  text-decoration: underline;
 }

@@ -1,7 +1,7 @@
 function projectDivViewer(choice, el) {
     var div1 = document.getElementById('projects_publication');
     var div2 = document.getElementById('projects_webapp');
-    var div3 = document.getElementById('projects_other');
+    var div3 = document.getElementById('projects_personal');
 
     var pn_1 = document.getElementById('pn-1');
     var pn_2 = document.getElementById('pn-2');
