@@ -1,5 +1,7 @@
 /* * fonts */
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&family=Montserrat&family=Poppins:wght@700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,800&display=swap');
+
 
 /* ## Base HTML CSS */
 /* * for all part */
@@ -216,4 +218,10 @@ a {
   padding-top: 40px;
   font-size: 4rem;
   text-align: center;
+}
+
+#contact a {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 900;
+  font-size: large;
 }
